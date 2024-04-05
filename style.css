@@ -181,3 +181,11 @@ border-color: black;
 .homepageheader {
     text-align:center;
 }
+.donering {
+    float: left;
+    width: 50%;
+}
+.instructions{
+    float: right;
+    width: 50%;
+}
