@@ -113,7 +113,8 @@ footer{
     margin: 0 10px;
 }
 body {
-    font-family: Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
     margin: 0;
     padding: 0;
 }
@@ -188,4 +189,22 @@ border-color: black;
 .instructions{
     float: right;
     width: 50%;
+}
+.item {
+    display: flex;
+    align-items: center;
+}
+
+.item .content {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.item .deutschefood {
+    max-width: 300px; /* Adjust as needed */
+    height: auto;
+}
+.deutschefood {
+    width:200px;
+    height:200px;
 }
