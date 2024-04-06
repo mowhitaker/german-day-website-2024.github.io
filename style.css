@@ -207,4 +207,8 @@ border-color: black;
 .deutschefood {
     width:200px;
     height:200px;
+    padding: 30px;
 }
+.description {
+    padding:10px;
+}    
